@@ -1,0 +1,90 @@
+{
+  "profiles":[
+    {
+      "id":1,
+      "name":"Adi Narayana",
+      "label":"Program Developer",
+      "company":"Google",
+      "image":"img/image1.jpg"
+
+    },
+    {
+      "id":2,
+      "name":"Heamanth",
+      "label":"Program Decoder",
+      "company":"Infrastructure",
+      "image":"img/image1.jpg"
+
+    },
+    {
+      "id":3,
+      "name":"Venkat",
+      "label":"Team Leader",
+      "company":"Youtube",
+      "image":"img/image1.jpg"
+
+    },
+    {
+      "id":4,
+      "name":"Thiru",
+      "label":"Developer",
+      "company":"Infosys",
+      "image":"img/image1.jpg"
+
+    }
+  ],
+  "career":{
+    "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility,using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance."
+  },
+  "education":[
+    {
+      "Degree":"MCA(Master Of Computer Application)",
+       "Institute_Name":"Siddhartha Institute Science & Technology",
+       "data":["2017-20","8.29%"]
+     },
+    {
+      "Degree":"BSc(Computer Science)",
+       "Institute_Name":"Loyola Degree college",
+       "data":["2014-17","65%"]
+     },
+     {
+       "Degree":"CSE(Computer Science & Engineering)",
+        "Institute_Name":"Govt Junior college",
+        "data":["2012-14","89.8%"]
+      },
+      {
+        "Degree":"SSC",
+         "Institute_Name":"ZPHS",
+         "data":["2012","90%"]
+       }
+  ],
+  "skills":[
+    {
+      "title":"programming Languages",
+      "set":["Java","c","python","c++"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["Html","Java Script","CSS","PHP"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["Sql","MySql","Oracle","NoSql"]
+     },
+    {
+      "title":"Operating Systems",
+      "set":["Windows","Dos","Linux","Mac"]
+    }
+  ],
+  "achievements":[
+    {
+      "achievedData":"got 3<sup>st</sup> Prize in PPT presentation."
+    },
+    {
+      "achievedData":"got 1<sup>st</sup> Prize in cricket."
+    },
+    {
+      "achievedData":"got 1<sup>st</sup> Prize in Seminor."
+    }
+  ]
+}
